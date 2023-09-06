@@ -13,20 +13,11 @@ export function EjercicioComponent ({ ejercicios }) {
 
       <tbody >
         {
-          ejercicios.map((user) => {
+          ejercicios?.map((user) => {
             return (
-              <tr key={user.email}>
+              <tr key={user.key}>
                 <td>
-                  <img src={user.picture.thumbnail} />
-                </td>
-                <td>
-                  {user.name.first}
-                </td>
-                <td>
-                {user.name.last}
-                </td>
-                <td>
-                  {user.location.country}
+                  {user.name}
                 </td>
               </tr>
             )

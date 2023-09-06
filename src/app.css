@@ -2,18 +2,9 @@
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
-  width: 100%;
-  background-color: cadetblue;
+  /* width: 100%; */
+  /* background-color: cadetblue; */
 }
-
-.table--showColors tr:nth-child(odd) {
-  background: #333;
-}
-
-.table--showColors tr:nth-child(even) {
-  background: #555;
-}
-
 header {
   display: flex;
   gap: 4px;
@@ -22,10 +13,8 @@ header {
   align-items: center;
 }
 
-.pointer {
-  cursor: crosshair;
-}
 
 body { 
   background-color: #213547;
+
 }

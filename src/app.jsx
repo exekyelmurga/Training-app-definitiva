@@ -29,7 +29,7 @@ export function App() {
             <>
             <div className="App">
                 <h1>Ejercicios</h1>
-                <EjercicioComponent ejercicios={Ejercicios} />
+                <EjercicioComponent ejercicios={Ejercicios}/>
                 <DetalleSesion sesionId={1}/>                                  
             </div>
             </>

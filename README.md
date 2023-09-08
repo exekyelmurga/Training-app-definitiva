@@ -8,8 +8,13 @@ tambien se podria descargar todo a un excel, y cuando haga un peso nuevo o algun
 
 
 [x] dividirse en sesiones
-[] cada sesion en ejercicios
-[] sesion puede tener uno o mas ejercisios
-[] cada ejercicio tiene series
-[] cada serie tiene peso, repeticiones, rir
-
+[x] cada sesion en ejercicios
+[x] sesion puede tener uno o mas ejercisios
+[x] cada ejercicio tiene series
+[x] cada serie tiene peso, repeticiones, rir
+[x] mostrar las sesiones
+[x] mostrar los ejercicios de una sesion
+[] poder crear una sesion
+[] poder editar la sesion
+[] poder crear un ejercicio
+[] poder editar el ejercicio

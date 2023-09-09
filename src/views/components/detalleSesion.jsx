@@ -1,4 +1,4 @@
-import { findSesion } from '../controllers/sesiones'
+import { findSesion } from '../../models/sesiones'
 
 export let DetalleSesion = function ({sesionId}) {
     

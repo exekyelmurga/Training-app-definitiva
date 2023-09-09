@@ -14,7 +14,8 @@ tambien se podria descargar todo a un excel, y cuando haga un peso nuevo o algun
 [x] cada serie tiene peso, repeticiones, rir
 [x] mostrar las sesiones
 [x] mostrar los ejercicios de una sesion
-[] poder crear una sesion
+
 [] poder editar la sesion
-[] poder crear un ejercicio
 [] poder editar el ejercicio
+[] poder crear una sesion
+[] poder crear un ejercicio
